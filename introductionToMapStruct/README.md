@@ -5,7 +5,7 @@ Let's start with entity(source) to DTO(destination/target) mapping which is very
 
 Assume following source(Student) to destination(StudentDto) mapping:
 
-![mapperClass](./introductionToMapStruct/MapStructMapperClass.png)
+![mapperClass](./MapStructMapperClass.png)
 
 How to map? :thinking:
 

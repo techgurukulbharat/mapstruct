@@ -6,4 +6,4 @@ MapStruct allow to mark only one parameter with @MappingTarget annotation.
 
 Check the project where target object's email is updated with source object's email.
 
-![mapperClass](https://github.com/pawan-lnmiit/mapstruct/blob/master/examples/updateDestinationMapping/updateExistingObject.png)
+![mapperClass](./updateExistingObject.png)

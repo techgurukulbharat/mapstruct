@@ -1,6 +1,6 @@
 ## Custom Mapping using @BeforeMapping and @AfterMapping Annotations
 
-As we discussed [custom Mapping](https://github.com/pawan-lnmiit/mapstruct/tree/master/examples/customMethodMapping) where I explained how we can give custom methods for an specific mapping from one type to another which can’t be generated automatically by MapStruct.
+As we discussed [custom Mapping](../customMethodMapping) where I explained how we can give custom methods for an specific mapping from one type to another which can’t be generated automatically by MapStruct.
 
 Now there are some scenario where we want to apply some logic before and after mapping logic. This is very useful when we want to apply some custom logic not only for a few selected methods, but for all methods that map specific super-types. 
 

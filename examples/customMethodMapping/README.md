@@ -17,7 +17,7 @@ In this scenario you could then define the custom method like below:
 		return mobileNumbers.stream().map(number -> "0" + number).collect(Collectors.toList());
 	}
 	
-![mapperClass](https://github.com/pawan-lnmiit/mapstruct/blob/master/examples/customMethodMapping/customMethodMapping1.png)
+![mapperClass](./customMethodMapping1.png)
 
 ### Note: 
 Remember that method name doesn't matter, you can use any method name.

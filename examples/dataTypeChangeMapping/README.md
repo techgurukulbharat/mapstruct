@@ -18,4 +18,4 @@ There are some cases where you want to define the format of mapped attributes in
 	 - numberFormat
 
 
-![mapperClass](https://github.com/pawan-lnmiit/mapstruct/blob/master/examples/dataypeChangeMapping/dataypeChangeMapping1.png)
+![mapperClass](./dataypeChangeMapping1.png)

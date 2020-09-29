@@ -4,16 +4,16 @@ Hello friends, Welcome to MapStruct beginner tutorial.
 
 In this tutorial we will explore about MapStruct and will try to find out the answer of below questions:
 
-- [Overview](https://github.com/pawan-lnmiit/mapstruct/tree/master/introductionToMapStruct#overview)
+- [Overview](./introductionToMapStruct#overview)
 
-- [What is MapStruct?](https://github.com/pawan-lnmiit/mapstruct/blob/master/introductionToMapStruct/README.md#what-is-mapstruct)
+- [What is MapStruct?](./introductionToMapStruct/README.md#what-is-mapstruct)
 
-- [Why to use MapStruct?](https://github.com/pawan-lnmiit/mapstruct/blob/master/introductionToMapStruct/README.md#why-to-use-mapstruct)
+- [Why to use MapStruct?](./introductionToMapStruct/README.md#why-to-use-mapstruct)
 
-- [How MapStruct works?](https://github.com/pawan-lnmiit/mapstruct/tree/master/howMapStructWorks#how-mapstruct-works)
+- [How MapStruct works?](./howMapStructWorks#how-mapstruct-works)
 
-- [How to use MapStruct?](https://github.com/pawan-lnmiit/mapstruct/tree/master/MapStructSetUp#how-to-use-mapstruct)
+- [How to use MapStruct?](./MapStructSetUp#how-to-use-mapstruct)
 
-- [MapStruct processor configuration](https://github.com/pawan-lnmiit/mapstruct/blob/master/configuration/README.md#mapstruct-processor-configuration)
+- [MapStruct processor configuration](./configuration/README.md#mapstruct-processor-configuration)
 
-- [Examples](https://github.com/pawan-lnmiit/mapstruct/tree/master/examples)
+- [Examples](./examples)
